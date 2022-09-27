@@ -1,2 +1,2 @@
-this is my second commit,
-i am currently updating right now too.
+this is my second commit.
+I am currently updating right now too.
